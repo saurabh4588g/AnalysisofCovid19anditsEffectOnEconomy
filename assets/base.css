@@ -1,0 +1,17 @@
+body{
+    font-family: monospace;
+}
+#_dash-app-content{
+    padding: 40px;
+    margin: 0 15vw;
+}
+.app--title,.app--subt{
+    text-align: center;
+}
+.Select-control,.Select-menu-outer{
+    width: 20vw;
+    margin-bottom: 10px;
+}
+.inline-t{
+    display: inline;
+}
